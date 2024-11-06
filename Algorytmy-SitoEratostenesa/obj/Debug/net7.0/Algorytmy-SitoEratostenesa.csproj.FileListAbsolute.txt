@@ -1,0 +1,14 @@
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\bin\Debug\net7.0\Algorytmy-SitoEratostenesa.exe
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\bin\Debug\net7.0\Algorytmy-SitoEratostenesa.deps.json
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\bin\Debug\net7.0\Algorytmy-SitoEratostenesa.runtimeconfig.json
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\bin\Debug\net7.0\Algorytmy-SitoEratostenesa.dll
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\bin\Debug\net7.0\Algorytmy-SitoEratostenesa.pdb
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.AssemblyInfoInputs.cache
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.AssemblyInfo.cs
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.csproj.CoreCompileInputs.cache
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.dll
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\refint\Algorytmy-SitoEratostenesa.dll
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.pdb
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\Algorytmy-SitoEratostenesa.genruntimeconfig.cache
+D:\VSProjects\Algorytmy-SitoEratostenesa\Algorytmy-SitoEratostenesa\obj\Debug\net7.0\ref\Algorytmy-SitoEratostenesa.dll
